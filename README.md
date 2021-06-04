@@ -12,7 +12,7 @@ Since for a long time i'm using linux ,this project is just reminder of the old 
 ## How To Use
 
 For it to work you have to insert the task's that you whant to be controlled , like:
-```
+```python
 Apps = ['YouTube', 'League of Legends','Naruto', 'Name that Appears on the Windows TaskBar']
 
 #Array de Controlo
