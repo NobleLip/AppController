@@ -24,7 +24,7 @@ Cont = {'YouTube':3600,
 Consola = {'YouTube':'brave.exe',
 			'League of Legends':'LeagueClient.exe',
 			'Naruto':'brave.exe',
-      'Name that Appears on the Windows TaskBar':'Name of the .exe file task'} 
+      'Name that Appears on the Windows TaskBar':'Name of the .exe file of the task'} 
 ```
 
 After this , its a simple procedure:
